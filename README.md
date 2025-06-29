@@ -34,6 +34,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Recently Signed-Up Customers  | [Recent Signups](queries/day_02_recent_signups.sql) |
 | Customers Grouped by State    | [Customers by State](queries/day_02_customers_by_state.sql) |
 
+## 🔍 Day 3 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Orders with Customer Names    | [Orders with Customer Names](day_03_orders_with_customer_names.sql) |
+
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, filtering
 
