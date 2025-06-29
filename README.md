@@ -27,6 +27,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Total Sales by Product Category        | [Sales by Category](queries/day01_total_sales.sql)                          |
 | Total Orders by Region                 | [Orders by Region](queries/day01_total_orders_by_region.sql)               |
 
+## 🔍 Day 2 Challenge
+
+| Challenge                      | Query Link                                                               |
+|-------------------------------|---------------------------------------------------------------------------|
+| Recently Signed-Up Customers  | [Recent Signups](queries/day_02_recent_signups.sql)                      |
+
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, filtering
 
 
