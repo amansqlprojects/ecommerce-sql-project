@@ -1,4 +1,4 @@
--- Day 2 Main Challenge: Count customers from each state
+-- Day 2 Challenge: Count customers from each state
 
 SELECT
   state,
