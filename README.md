@@ -29,10 +29,10 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 
 ## 🔍 Day 2 Challenge
 
-| Challenge                      | Query Link                                                               |
-|-------------------------------|---------------------------------------------------------------------------|
-| Recently Signed-Up Customers  | [Recent Signups](queries/day_02_recent_signups.sql)                      |
-
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Recently Signed-Up Customers  | [Recent Signups](queries/day_02_recent_signups.sql) |
+| Customers Grouped by State    | [Customers by State](queries/day_02_customers_by_state.sql) |
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, filtering
