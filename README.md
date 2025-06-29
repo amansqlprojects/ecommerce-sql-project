@@ -17,8 +17,8 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 
 | Day | Topic                                 | File                                             |
 |-----|---------------------------------------|--------------------------------------------------|
-| 1   | Total Sales and Customers by Category | [Sales by Category](queries/day01_total_sales.sql)           |
-| 1   | Orders by Region                      | [Orders by Region](queries/day01_total_orders_by_region.sql)|
+| 1   | **Total Sales and Customers by Category** | [Sales by Category](queries/day01_total_sales.sql)           |
+| 1   | **Orders by Region**                      | [Orders by Region](queries/day01_total_orders_by_region.sql)|
 
 
 ## 🛠️ Tech Stack
