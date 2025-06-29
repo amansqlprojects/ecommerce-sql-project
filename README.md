@@ -23,7 +23,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 
 | Challenge                               | Query Link                                                                  |
 |----------------------------------------|------------------------------------------------------------------------------|
-| Customer Names and Cities              | [Customer Names & Cities](queries/day_01_simple_select.sql)                 |
+| Customer Names and Cities              | [Customer Names & Cities](queries/day01_customer_names_and_cities.sql)                |
 | Total Sales by Product Category        | [Sales by Category](queries/day01_total_sales.sql)                          |
 | Total Orders by Region                 | [Orders by Region](queries/day01_total_orders_by_region.sql)               |
 
