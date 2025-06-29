@@ -14,16 +14,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 - Real interview-style queries
 
 ## 🚀 Daily Challenges
-| Day | Topic | File |
-|-----|-------|------|
-| 1 | Total sales and customers by category | `challenges/day01_total_sales.sql` |
+
+| Day | Topic                                 | File                                             |
+|-----|---------------------------------------|--------------------------------------------------|
+| 1   | Total Sales and Customers by Category | [Sales by Category](queries/day01_total_sales.sql)           |
+| 1   | Orders by Region                      | [Orders by Region](queries/day01_total_orders_by_region.sql)|
+
 
 ## 🛠️ Tech Stack
 - PostgreSQL
 - Git + GitHub
-
-## 📌 How to Use
-1. Clone the repo
-2. Import the dataset into PostgreSQL
-3. Run queries from `challenges/` day-by-day
 
