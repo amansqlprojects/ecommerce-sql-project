@@ -39,10 +39,10 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Challenge                      | Query Link                                           |
 |-------------------------------|------------------------------------------------------|
 | Orders with Customer Names    | [Orders with Customer Names](day_03_orders_with_customer_names.sql) |
+| Ordered Products with Customer Names| [Ordered Products with Customer Names](day_03_products_with_customers.sql)|
 
 
-
-> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, filtering
+> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`
 
 
 
