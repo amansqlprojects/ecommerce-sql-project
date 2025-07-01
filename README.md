@@ -42,6 +42,17 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Ordered Products with Customer Names| [Ordered Products with Customer Names](day_03_products_with_customers.sql)|
 
 
+## 🔍 Day 4 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Sales Performance per Product    | [Sales Performance per Product](day_04_sales_by_product.sql) |
+| Average Order Value by State & Gender| [Average Order Value by State & Gender](day_04_avg_order_value_by_state_gender.sql)|
+
+
+
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`
 
 
