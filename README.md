@@ -49,6 +49,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Sales Performance per Product    | [Sales Performance per Product](day_04_sales_by_product.sql) |
 | Average Order Value by State & Gender| [Average Order Value by State & Gender](day_04_avg_order_value_by_state_gender.sql)|
 
+## 🔍 Day 5 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Top 3 Customers for April    | [Top 3 Customers for April](day_05_top_customers_april.sql) |
+| Monthly Sales Summary| [Monthly Sales Summary](day_05_monthly_sales_summary.sql)|
 
 
 
