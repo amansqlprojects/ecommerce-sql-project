@@ -1,4 +1,4 @@
--- Day 4 (Moderate) Challenge: Sales performance per Product
+-- Day 4 Challenge: Sales performance per Product
 
 SELECT
   p.product_name,
