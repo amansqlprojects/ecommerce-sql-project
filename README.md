@@ -57,6 +57,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Monthly Sales Summary| [Monthly Sales Summary](day_05_monthly_sales_summary.sql)|
 
 
+## 🔍 Day 6 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Top 3 Most Popular Products   | [Top 3 Most Popular Products](day_06_top_3_products.sql) |
+| Customers with Multiple Orders| [Customers with Multiple Orders](day_06_customers_multiple_orders.sql)|
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`
