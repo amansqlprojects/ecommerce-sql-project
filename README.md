@@ -65,7 +65,15 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customers with Multiple Orders| [Customers with Multiple Orders](day_06_customers_multiple_orders.sql)|
 
 
-> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`
+## 🔍 Day 7 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Customers All Categories   | [Customers All Categories](day_07_customers_all_categories) |
+| Latest Order Per Customer| [Latest Order Per Customer](day_07_latest_order_per_customer.sql)|
+
+
+> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`
 
 
 
