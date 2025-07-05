@@ -72,6 +72,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customers All Categories   | [Customers All Categories](day_07_customers_all_categories.sql) |
 | Latest Order Per Customer| [Latest Order Per Customer](day_07_latest_order_per_customer.sql)|
 
+## 🔍 Day 7 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Customers Above Average  | [Customers Above Average](day_08_customers_above_average.sql) |
+| First Order Per Customer| [Latest Order Per Customer](day_08_first_order_per_customer.sql)|
+
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`
 
