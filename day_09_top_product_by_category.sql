@@ -1,4 +1,4 @@
-Day 09 - : Top Product by Revenue Per Category
+Day 09: Top Product by Revenue Per Category
 
 SELECT
   category,
