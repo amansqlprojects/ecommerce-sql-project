@@ -1,4 +1,4 @@
--- Day 09 - Challenge : Inactive Customers
+-- Day 09: Challenge : Inactive Customers
 
 SELECT
   c.customer_id,
