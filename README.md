@@ -72,7 +72,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customers All Categories   | [Customers All Categories](day_07_customers_all_categories.sql) |
 | Latest Order Per Customer| [Latest Order Per Customer](day_07_latest_order_per_customer.sql)|
 
-## 🔍 Day 7 Challenge
+## 🔍 Day 8 Challenge
 
 | Challenge                      | Query Link                                           |
 |-------------------------------|------------------------------------------------------|
