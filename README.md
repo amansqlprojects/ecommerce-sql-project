@@ -77,7 +77,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Challenge                      | Query Link                                           |
 |-------------------------------|------------------------------------------------------|
 | Customers Above Average  | [Customers Above Average](day_08_customers_above_average.sql) |
-| First Order Per Customer| [Latest Order Per Customer](day_08_first_order_per_customer.sql)|
+| First Order Per Customer| [First Order Per Customer](day_08_first_order_per_customer.sql)|
 
 
 
