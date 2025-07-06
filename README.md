@@ -79,6 +79,15 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customers Above Average  | [Customers Above Average](day_08_customers_above_average.sql) |
 | First Order Per Customer| [First Order Per Customer](day_08_first_order_per_customer.sql)|
 
+## 🔍 Day 9 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Inactive Customers  | [Inactive Customers](day_09_inactive_customers.sql) |
+| Top Product by Revenue Per Category| [Top Product by Revenue Per Category](day_09_top_product_by_category.sql)|
+
+
+
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`
