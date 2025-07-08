@@ -87,6 +87,15 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Top Product by Revenue Per Category| [Top Product by Revenue Per Category](day_09_top_product_by_category.sql)|
 
 
+## 🔍 Day 10 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Most Popular Product Category by State  | [Most Popular Product Category by State](day_10_category_sales_by_state.sql) |
+| Gap Between Signup and First Order| [Gap Between Signup and First Order](day_10_signup_to_first_order_gap.sql)|
+
+
+
 
 
 
