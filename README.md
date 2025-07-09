@@ -95,8 +95,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Gap Between Signup and First Order| [Gap Between Signup and First Order](day_10_signup_to_first_order_gap.sql)|
 
 
+## 🔍 Day 11 Challenge
 
-
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Products Sold in Multiple Orders | [Products Sold in Multiple Orders](day_11_products_in_more_than_2_orders.sql)|
+| Customers with Multiple Orders in the Same Month| [Customers with Multiple Orders in the Same Month](day_11_repeat_customers_by_month.sql)|
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
