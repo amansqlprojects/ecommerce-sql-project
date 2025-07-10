@@ -106,7 +106,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 
 | Challenge                      | Query Link                                           |
 |-------------------------------|------------------------------------------------------|
-| Customers who ordered in May | [Customers who ordered in April](day_12_customers_orders_in_may.sql)|
+| Customers who ordered in May | [Customers who ordered in May](day_12_customers_orders_in_may.sql)|
 | Products ordered by Ravi Kumar| [Products ordered by Ravi Kumar](day_12_products_by_ravi_kumar.sql)|
 
 
