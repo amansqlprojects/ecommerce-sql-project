@@ -102,6 +102,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Products Sold in Multiple Orders | [Products Sold in Multiple Orders](day_11_products_in_more_than_2_orders.sql)|
 | Customers with Multiple Orders in the Same Month| [Customers with Multiple Orders in the Same Month](day_11_repeat_customers_by_month.sql)|
 
+## 🔍 Day 12 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Customers who ordered in May | [Customers who ordered in April](day_12_customers_orders_in_may.sql)|
+| Products ordered by Ravi Kumar| [Products ordered by Ravi Kumar](day_12_products_by_ravi_kumar.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
