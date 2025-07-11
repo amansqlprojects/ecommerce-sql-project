@@ -1,4 +1,4 @@
---Day 13 Challenge: Find the first time (date) each customer placed an order
+--Day 13 Challenge: Identify when each customer first placed an order
 
 SELECT
   c.customer_id,
