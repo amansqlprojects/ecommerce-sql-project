@@ -110,6 +110,15 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Products ordered by Ravi Kumar| [Products ordered by Ravi Kumar](day_12_products_by_ravi_kumar.sql)|
 
 
+## 🔍 Day 13 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Monthly Sales Report | [Monthly Sales Report](day_13_monthly_sales_report.sql)|
+| First Order Date| [First Order Date](day_13_first_order_per_customer.sql)|
+| Daily Product Quantity Sold| [Daily Product Quantity Sold](day_13_daily_product_sales.sql)|
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
 
