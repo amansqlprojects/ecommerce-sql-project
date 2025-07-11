@@ -1,4 +1,4 @@
---Day 13 Challenge: Analyze Total Quantity of Products Sold Per Day
+--Day 13 Challenge: Analyze total quantity of products sold per day
 
 SELECT
   o.order_date,
