@@ -118,6 +118,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | First Order Date| [First Order Date](day_13_first_order_per_customer.sql)|
 | Daily Product Quantity Sold| [Daily Product Quantity Sold](day_13_daily_product_sales.sql)|
 
+## 🔍 Day 14 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Products That Were Never Sold | [Products That Were Never Sold](day_14_products_never_sold.sql)|
+| Top Customer by City| [Top Customer by City](day_14_top_customer_by_city.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
