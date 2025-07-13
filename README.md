@@ -125,6 +125,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Products That Were Never Sold | [Products That Were Never Sold](day_14_products_never_sold.sql)|
 | Top Customer by City| [Top Customer by City](day_14_top_customer_by_city.sql)|
 
+## 🔍 Day 15 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Most Ordered Product per Customer | [Most Ordered Product per Customer](day_15_top_product_per_customer.sql)|
+| Average Spend per Category| [Average Spend per Category](day_15_avg_spend_per_category.sql)|
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
