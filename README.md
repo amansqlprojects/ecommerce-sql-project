@@ -132,6 +132,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Most Ordered Product per Customer | [Most Ordered Product per Customer](day_15_top_product_per_customer.sql)|
 | Average Spend per Category| [Average Spend per Category](day_15_avg_spend_per_category.sql)|
 
+## 🔍 Day 16 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Rank Customers by Spending in Each City | [Rank Customers by Spending in Each City](day_16_rank_customers_by_city.sql)|
+| Best-Selling Products| [Best-Selling Products](day_16_dense_rank_products.sql)|
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
 
