@@ -1,4 +1,4 @@
--- Day 16: Rank products in each category based on total revenue.
+-- Day 16: Rank products in each category based on total revenue
 
 SELECT
   p.category,
