@@ -1,4 +1,4 @@
--- Day 17: Rank Customers by Spending in Each City
+-- Day 17: Show each customer's orders along with their previous order amount
 
 SELECT
   c.customer_id,
