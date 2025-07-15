@@ -140,6 +140,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Best-Selling Products| [Best-Selling Products](day_16_dense_rank_products.sql)|
 
 
+## 🔍 Day 17 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Customer Lag Order | [Customer Lag Order](day_17_customer_lag_order.sql)|
+| Spending Increase | [Spending Increase](day_17_spending_increase.sql)|
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
 
