@@ -147,6 +147,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customer Lag Order | [Customer Lag Order](day_17_customer_lag_order.sql)|
 | Spending Increase | [Spending Increase](day_17_spending_increase.sql)|
 
+## 🔍 Day 18 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Running Total | [Running Total](day_18_running_total.sql)|
+| Rolling Average | [Running Total](day_18_rolling_avg_3_orders.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
