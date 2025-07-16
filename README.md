@@ -152,7 +152,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Challenge                      | Query Link                                           |
 |-------------------------------|------------------------------------------------------|
 | Running Total | [Running Total](day_18_running_total.sql)|
-| Rolling Average | [Running Total](day_18_rolling_avg_3_orders.sql)|
+| Rolling Average | [Rolling Average](day_18_rolling_avg_3_orders.sql)|
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
