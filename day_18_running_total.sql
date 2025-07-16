@@ -1,4 +1,4 @@
--- Day 18: For each order, show the order amount and the running total of orders
+-- Day 18 Challenge: For each order, show the order amount and the running total of orders
 
 SELECT
   o.order_id,
