@@ -1,4 +1,4 @@
--- Day 17: List customer orders where the current order is higher than the previous one
+-- Day 17 Challenge: List customer orders where the current order is higher than the previous one
 
 SELECT *
 FROM (
