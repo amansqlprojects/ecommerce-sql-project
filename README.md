@@ -154,6 +154,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Running Total | [Running Total](day_18_running_total.sql)|
 | Rolling Average | [Rolling Average](day_18_rolling_avg_3_orders.sql)|
 
+## 🔍 Day 19 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Difference Between Previous First & Last Order | [Difference Between Previous First & Last Order](day_19_first_last_order_diff.sql)|
+| Drop In Order Amount | [Drop In Order Amount](day_19_detect_order_drop.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
