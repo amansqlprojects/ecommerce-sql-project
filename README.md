@@ -161,6 +161,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Difference Between Previous First & Last Order | [Difference Between Previous First & Last Order](day_19_first_last_order_diff.sql)|
 | Drop In Order Amount | [Drop In Order Amount](day_19_detect_order_drop.sql)|
 
+## 🔍 Day 20 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Category-Wise Running Total of Sales | [Category-Wise Running Total of Sales](day_20_running_total_by_category.sql)|
+| Days Since Last Order | [Days Since Last Order](day_20_days_since_last_order.sql)|
+
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
