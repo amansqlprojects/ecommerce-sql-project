@@ -168,7 +168,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Category-Wise Running Total of Sales | [Category-Wise Running Total of Sales](day_20_running_total_by_category.sql)|
 | Days Since Last Order | [Days Since Last Order](day_20_days_since_last_order.sql)|
 
+## 🔍 Day 21 Challenge
 
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Sales by State and Category | [Sales by State and Category](day_21_rollup_state_category.sql)|
+| Sales by Category and Month | [Sales by Category and Month](day_21_cube_category_month.sql)|
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
 
