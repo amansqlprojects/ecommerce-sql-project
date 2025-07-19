@@ -1,4 +1,4 @@
---Day 21 Challenge: how sales for each product category per month, including all subtotals across dimensions
+--Day 21 Challenge: Show sales for each product category per month, including all subtotals across dimensions
 
 SELECT
   p.category,
