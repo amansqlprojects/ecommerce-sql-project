@@ -175,7 +175,14 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Sales by State and Category | [Sales by State and Category](day_21_rollup_state_category.sql)|
 | Sales by Category and Month | [Sales by Category and Month](day_21_cube_category_month.sql)|
 
-> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`
+## 🔍 Day 22 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Sales Summary by City and State | [Sales Summary by City and State](day_22_groupingsets_city_state.sql)|
+| Sales Matrix | [Sales Matrix](day_22_groupingsets_matrix.sql)|
+
+> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS` 
 
 
 
