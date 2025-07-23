@@ -182,6 +182,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Sales Summary by City and State | [Sales Summary by City and State](day_22_groupingsets_city_state.sql)|
 | Sales Matrix | [Sales Matrix](day_22_groupingsets_matrix.sql)|
 
+## 🔍 Day 23 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Sales Per Category and Order Month | [Sales Per Category and Order Month](day_23_rollup_category_month.sql)|
+| Total Sales by Category and State | [Total Sales by Category & State](day_23_rollup_category_state_having.sql)|
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS` 
 
 
