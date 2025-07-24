@@ -189,6 +189,16 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Sales Per Category and Order Month | [Sales Per Category and Order Month](day_23_rollup_category_month.sql)|
 | Total Sales by Category and State | [Total Sales by Category & State](day_23_rollup_category_state_having.sql)|
 
+
+## 🔍 Day 24 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Customer Classification | [Customer Classification](day_24_customer_spending_tiers.sql)|
+| Age Band Sales Performance | [Age Band Sales Performance](day_24_age_band_sales_case.sql)|
+
+
+
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS` 
 
 
