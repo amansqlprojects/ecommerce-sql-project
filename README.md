@@ -205,7 +205,7 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Top Spenders by Category | [Top Spenders by Category](day_25_top_spenders_by_category.sql)|
 
 
-> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`,`CTE`  
+> 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`, `CTE`  
 
 
 
