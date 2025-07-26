@@ -197,6 +197,12 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Customer Classification | [Customer Classification](day_24_customer_spending_tiers.sql)|
 | Age Band Sales Performance | [Age Band Sales Performance](day_24_age_band_sales_case.sql)|
 
+## 🔍 Day 25 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| First Order Date and Amount | [First Order Date and Amount](day_25_first_orders.sql)|
+| Top Spenders by Category | [Top Spenders by Category](day_25_top_spenders_by_category.sql)|
 
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS` 
