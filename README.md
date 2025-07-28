@@ -204,6 +204,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | First Order Date and Amount | [First Order Date and Amount](day_25_first_orders.sql)|
 | Top Spenders by Category | [Top Spenders by Category](day_25_top_spenders_by_category.sql)|
 
+## 🔍 Day 26 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Total Orders for Repeat Customers | [Total Orders for Repeat Customers](day_26_monthly_repeat_customers.sql)|
+| Three Month Moving Average | [Three Month Moving Average](day_26_moving_avg_total_sales.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`, `CTE`  
 
