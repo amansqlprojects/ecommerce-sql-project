@@ -211,6 +211,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Total Orders for Repeat Customers | [Total Orders for Repeat Customers](day_26_monthly_repeat_customers.sql)|
 | Three Month Moving Average | [Three Month Moving Average](day_26_moving_avg_total_sales.sql)|
 
+## 🔍 Day 27 Challenge
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Top Performing Product Category | [Top Performing Product Category](day_27_top_category_by_month.sql)|
+| Life Time Value with First and Last Purchase Date | [Life Time Value with First and Last Purchase Date](day_27_customer_lifetime_value.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`, `CTE`  
 
