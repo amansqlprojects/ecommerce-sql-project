@@ -218,6 +218,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | Top Performing Product Category | [Top Performing Product Category](day_27_top_category_by_month.sql)|
 | Life Time Value with First and Last Purchase Date | [Life Time Value with First and Last Purchase Date](day_27_customer_lifetime_value.sql)|
 
+## 🔍 Day 28 Challenge (Independent of Data Set)
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| High Value Returns | [High Value Returns](day_28_high_returns.sql)|
+| Monthly Performance of Sales Channels | [Monthly Performance of Sales Channels](day_28_sales_by_channel_monthly.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`, `CTE`  
 
