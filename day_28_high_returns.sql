@@ -1,4 +1,4 @@
---Day 28 Challenge: Identify Customers where Total Return > ₹5000
+--Day 28 Challenge: Identify Customers wtih Total Return > ₹5000
 
 WITH customer_returns AS (
   SELECT o.customer_id, SUM(r.return_amount) AS total_return
