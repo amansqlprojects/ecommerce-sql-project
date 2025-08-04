@@ -1,4 +1,4 @@
---Day 29 Challenge: Number of customers who browsed but never placed an order
+--Day 29 Challenge: Number of Customers who Browsed but never Placed an Order
 
 WITH browsing_only AS (
   SELECT DISTINCT ca.customer_id
