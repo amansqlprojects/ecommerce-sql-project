@@ -1,4 +1,4 @@
---Day 29 Challenge: Create Monthly Revenue versus Target
+--Day 29 Challenge: Prepare Monthly Revenue versus Target Analysis
 
 WITH monthly_revenue AS (
   SELECT 
