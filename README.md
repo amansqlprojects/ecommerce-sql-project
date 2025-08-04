@@ -225,6 +225,13 @@ Located in `/dataset/ecommerce_project_dataset.sql`
 | High Value Returns | [High Value Returns](day_28_high_returns.sql)|
 | Monthly Performance of Sales Channels | [Monthly Performance of Sales Channels](day_28_sales_by_channel_monthly.sql)|
 
+## 🔍 Day 29 Challenge (Independent of Data Set)
+
+| Challenge                      | Query Link                                           |
+|-------------------------------|------------------------------------------------------|
+| Revenue versus Target Analysis | [Revenue versus Target Analysis](day_29_revenue_vs_target_analysis.sql)|
+| Abandoned Cart Ratio | [Abandoned Cart Ratio](day_29_abandoned_cart_ratio.sql)|
+
 
 > 🔍 Concepts: `SELECT`, `DISTINCT`, `GROUP BY`, `SUM()`, `COUNT()`, `JOIN`, `SUBQUERY`, `HAVING`, `CORRELATED SUBQUERY`, `WINDOW FUNCTIONS`, `CUBE`, `ROLL UP`, `GROUPING SETS`, `CTE`  
 
